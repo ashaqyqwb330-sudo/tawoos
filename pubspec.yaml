@@ -1,0 +1,22 @@
+name: dr_tayous_guide
+description: Academic companion and assistant app for Dr. Zaid Tawous.
+version: 1.0.0+2
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^5.3.0
+  pdfrx: ^0.5.5
+  archive: ^3.3.7
+  share_plus: ^7.2.1
+  audioplayers: ^5.2.1
+  provider: ^6.1.1
+  path_provider: ^2.1.1
+  flutter_animate: ^4.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

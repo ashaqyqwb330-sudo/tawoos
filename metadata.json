@@ -1,0 +1,6 @@
+{
+  "name": "مرشد الشهيد د. زيد طاؤوس الذكي",
+  "description": "ذكاء محلي يعرف عن كلية الطب والعلوم الصحية وبرامجها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
